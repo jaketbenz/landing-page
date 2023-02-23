@@ -1,0 +1,67 @@
+html,
+body {
+	background-color: #1f2937 !important;
+}
+/* Nav */
+.nav--header {
+	color: #f9faf8;
+	font-size: 24px;
+}
+.nav--links {
+	color: #e5e7eb;
+	font-size: 18px;
+}
+/* Main Container */
+.left--partition {
+	width: 50%;
+}
+.main--header {
+	color: #f9faf8;
+	font-size: 48px;
+	font-weight: bolder;
+}
+.main--text {
+	color: #e5e7eb;
+	font-size: 18px;
+}
+.main--button {
+	width: 8rem;
+}
+/* Information Container */
+.information--container {
+	background-color: #f9faf8;
+}
+.card {
+	width: 18rem;
+}
+/* quote container */
+.quote--container {
+	background-color: #e5e7eb;
+}
+.quote--text {
+	color: #1f2937;
+	font-size: 36px;
+	font-style: italic;
+}
+.quote--author {
+	color: #1f2937;
+	font-weight: bold;
+}
+/* signup container */
+.signup--container {
+	background-color: #f9faf8;
+}
+.signup {
+	color: #f9faf8;
+	background-color: #3882f6;
+}
+.signup--button {
+	height: 3rem;
+	color: #f9faf8 !important;
+	background-color: #3882f6;
+	border: 1px solid #f9faf8;
+}
+/* footer */
+.footer--text {
+	color: #e5e7eb;
+}
